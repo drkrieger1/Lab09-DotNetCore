@@ -1,3 +1,17 @@
+#Lab10
+
+##How long did it take you to complete this assignment?
+half hour not even that. 
+
+##What did you struggle with? Why? How did you solve?
+nothing with this lab. 
+
+##What did you learn during this assignment?
+deploying to azure is easy. 
+
+##What resources did you utilize for this assingment?
+MS docs
+
 #CORE LAB
 
 ##How long did it take you to complete this assignment?
